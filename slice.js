@@ -7,4 +7,4 @@ console.log(Selflessness);
 
 
 
-// 'rifat', 'shahin', 'rakib', 'redwon', 'mukta'
+// [slice method holo (start and end use korte hob)]
